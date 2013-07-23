@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.String"></Asset>
+  <Player>
+    <ModelName type="String">plane_proto2</ModelName>
+    <StartingPosition type="Vector3">
+      <x>6</x>
+      <y>2</y>
+      <z>0</z>
+    </StartingPosition>
+    <StartingHealth type="int">400</StartingHealth>
+    <RotationRate type="float">0.05</RotationRate>
+    <Speed type="float">1</Speed>
+    <MaxTilt type="float">1</MaxTilt>
+    <SphereRadius type="float">0.25</SphereRadius>
+  </Player>
+</XnaContent>

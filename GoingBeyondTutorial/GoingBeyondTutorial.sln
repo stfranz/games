@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoingBeyondTutorial", "GoingBeyondTutorial\GoingBeyondTutorial\GoingBeyondTutorial.csproj", "{2C0BA399-0031-46F6-B78F-F1976328B1C4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GoingBeyondTutorialContent", "GoingBeyondTutorial\GoingBeyondTutorialContent\GoingBeyondTutorialContent.contentproj", "{92777F1F-44D4-4A47-BD03-A96F95149DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0BA399-0031-46F6-B78F-F1976328B1C4}.Debug|x86.ActiveCfg = Debug|x86
+		{2C0BA399-0031-46F6-B78F-F1976328B1C4}.Debug|x86.Build.0 = Debug|x86
+		{2C0BA399-0031-46F6-B78F-F1976328B1C4}.Release|x86.ActiveCfg = Release|x86
+		{2C0BA399-0031-46F6-B78F-F1976328B1C4}.Release|x86.Build.0 = Release|x86
+		{92777F1F-44D4-4A47-BD03-A96F95149DEB}.Debug|x86.ActiveCfg = Debug|x86
+		{92777F1F-44D4-4A47-BD03-A96F95149DEB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
